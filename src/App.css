@@ -1,5 +1,16 @@
 .App {
   text-align: center;
+  background-color: red;
+}
+
+.body {
+  border: 1px solid #ddd;
+  margin: 2em 0;
+  border-radius: 2em;
+  -webkit-box-shadow: 0px 0px 13px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 0px 0px 13px 0px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 0px 13px 0px rgba(0, 0, 0, 0.5);
+  background: radial-gradient(#fff, #eee);
 }
 
 .App-logo {
